@@ -12,7 +12,7 @@ Name<form:input path="name"/>
 Surname<form:input path="surname"/>
 <br><br>
 
-Departmen<form:input path="departmen"/>
+Departmen<form:input path="department"/>
 <br><br>
 
 Salary<form:input path="salary"/>
